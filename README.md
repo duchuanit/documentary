@@ -51,7 +51,12 @@ Danh sách các tài liệu đọc-
 <a target="_blank" href="https://www.taniarascia.com/crud-app-in-react-with-hooks/">CRUD</a>
 <a href="https://kipalog.com/posts/ReactJS-voi-create-react-app-toan-tap">React JS app</a>
 
-17. Lavarel
+
+17. Begin to Master React
+<a href="https://github.com/enaqx/awesome-react?fbclid=IwAR2d_cklFqe71fduxo79D3-7LbKglPG3VQ_M77wPZzDCMrLrJiYBRZmphYY">React Begin</a>
+
+
+18. Lavarel
 <a href="https://topdev.vn/blog/laravel-5-5-va-reactjs-xay-dung-crud-create-read-update-delete-tu-dau/">CRUD 5</a>
 <a href="https://github.com/dinhquochan/laravel-vietnamese-language">Vietnamese Language</a>
 
