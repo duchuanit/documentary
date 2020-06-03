@@ -49,7 +49,6 @@ Danh sách các tài liệu đọc-
 
 16. Bài tập React JS
 <a target="_blank" href="https://www.taniarascia.com/crud-app-in-react-with-hooks/">CRUD</a>
-<br/>
 <a href="https://viblo.asia/p/hoc-reactjs-thong-qua-vi-du-phan-1-yMnKMnGaZ7P">React JS thông qua ví dụ</a>
 
 17. Lavarel
