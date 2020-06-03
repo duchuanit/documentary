@@ -2,7 +2,7 @@
 Danh sách các tài liệu đọc-
 
 
-01.Sử dụng Git cơ bản cho lập trình viên
+ 01.Sử dụng Git cơ bản cho lập trình viên
 <a href="https://anonystick.com/blog-developer/su-dung-git-co-ban-git-cho-moi-lap-trinh-vien-202005154951204?fbclid=IwAR3RZy6mWm3FbC58FoBPPB7xkoSOE47GmGteLg2AfUBLoHzcnbOPrwEUcC4">Link ở đây</a>
 
 02. Download Git-Note
