@@ -1,0 +1,41 @@
+# documentary
+Danh sách các tài liệu đọc-
+
+01.Sử dụng Git cơ bản cho lập trình viên
+<a href="https://anonystick.com/blog-developer/su-dung-git-co-ban-git-cho-moi-lap-trinh-vien-202005154951204?fbclid=IwAR3RZy6mWm3FbC58FoBPPB7xkoSOE47GmGteLg2AfUBLoHzcnbOPrwEUcC4">Link ở đây</a>
+
+02. Download Git-Note
+<a href="https://anonystick.com/blog-developer/download-git-notes-for-professionals-book-2020050281968110?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đấy</a>
+
+03. Javascript Begin to Master
+<a href="https://anonystick.com/blog-developer/handbook-bi-kip-hoc-javascript-tu-begin-den-master-2019042290753541?fbclid=IwAR1R5vs42nOrHd32wcMLkzC5-bLCOZ3rgXLy3SlFq8HVQLs5z0yeYeD4V2I">Link ở đây</a>
+
+04. Handbook Javascipt and React
+<a href="https://anonystick.com/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q.jsx?fbclid=IwAR2m1OgxsW4MbubRxIPujY_ZtXIp1_wH1SXSx0V6I7jGzFbv5-NiEeQwsSs">Link ở đây</a>
+
+05. 30 Resources
+<a href="https://anonystick.com/learn-javascript-30-resources-developer-javascript-nen-following-201905225082261.jsx?fbclid=IwAR2m1OgxsW4MbubRxIPujY_ZtXIp1_wH1SXSx0V6I7jGzFbv5-NiEeQwsSs">Link ở đây</a>
+
+06. Code javascript 15
+<a href="https://anonystick.com/blog-developer/15-code-javascript-thuong-duoc-su-dung-voi-developer-javascript-2019070375061459.jsx?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đây</a>
+
+07. Dribbble
+<a href="https://dribbble.com/shots/10859197-Papaya-Insurance-App?fbclid=IwAR36A96v_7W1Etat4oO-fhd4yqc-srRrRUjGxP-VEiVLNpnzI42y4JSObXw">Link ở đây</a>
+
+08. 17 Dự án Javascript cho người mới học
+<a href="https://dribbble.com/shots/10859197-Papaya-Insurance-App?fbclid=IwAR36A96v_7W1Etat4oO-fhd4yqc-srRrRUjGxP-VEiVLNpnzI42y4JSObXw">Link ở đây </a>
+
+09.PHP
+<a href="https://phpgurukul.com/user-registration-and-login-using-php-oops-concepts/">Link hướng dẫn</a>
+
+10. Hình ảnh Freepik
+<a href="https://www.freepik.com/">Link hướng dẫn </a>
+
+11. Blog Lavarel Chung Nguyen
+<a href="https://chungnguyen.xyz/category/laravel">Blog Chung Nguyen</a>
+
+12. Nén hình ảnh
+<a href="https://tinypng.com/">Nén File</a>
+
+13. Flat UI Colors
+<a href="https://flatuicolors.com/">Flat UI</a>
