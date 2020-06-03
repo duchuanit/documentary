@@ -49,7 +49,7 @@ Danh sách các tài liệu đọc-
 
 16. Bài tập React JS
 <a target="_blank" href="https://www.taniarascia.com/crud-app-in-react-with-hooks/">CRUD</a>
-<a href="https://viblo.asia/u/KhoaNguyen">React JS thông qua ví dụ</a>
+<a href="https://kipalog.com/posts/ReactJS-voi-create-react-app-toan-tap">React JS app</a>
 
 17. Lavarel
 <a href="https://topdev.vn/blog/laravel-5-5-va-reactjs-xay-dung-crud-create-read-update-delete-tu-dau/">CRUD 5</a>
