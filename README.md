@@ -2,7 +2,7 @@
 Danh sách các tài liệu đọc-
 
 
- 01.Sử dụng Git cơ bản cho lập trình viên
+01. Sử dụng Git cơ bản cho lập trình viên
 <a href="https://anonystick.com/blog-developer/su-dung-git-co-ban-git-cho-moi-lap-trinh-vien-202005154951204?fbclid=IwAR3RZy6mWm3FbC58FoBPPB7xkoSOE47GmGteLg2AfUBLoHzcnbOPrwEUcC4">Link ở đây</a>
 
 02. Download Git-Note
@@ -26,7 +26,7 @@ Danh sách các tài liệu đọc-
 08. 17 Dự án Javascript cho người mới học
 <a href="https://dribbble.com/shots/10859197-Papaya-Insurance-App?fbclid=IwAR36A96v_7W1Etat4oO-fhd4yqc-srRrRUjGxP-VEiVLNpnzI42y4JSObXw">Link ở đây </a>
 
-09.PHP
+09. PHP
 <a href="https://phpgurukul.com/user-registration-and-login-using-php-oops-concepts/">Link hướng dẫn</a>
 
 10. Hình ảnh Freepik
