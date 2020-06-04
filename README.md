@@ -62,6 +62,5 @@ Danh sách các tài liệu đọc-
 <a href="https://viblo.asia/p/huong-dan-co-ban-phat-trien-web-voi-khung-phat-trien-laravel-phan-1-Qpmled8mZrd">Lavarel Cơ Bản 1</a>
 <a href="https://viblo.asia/p/huong-dan-co-ban-phat-trien-web-voi-khung-phat-trien-laravel-phan-2-bWrZn4dO5xw">Lavarel Cơ Bản 2</a>
 
-19. Dribbble - thiết kế UI-UX
-<a href="https://dribbble.com/">Dribbble</a>
+
 
