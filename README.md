@@ -59,4 +59,6 @@ Danh sách các tài liệu đọc-
 18. Lavarel
 <a href="https://topdev.vn/blog/laravel-5-5-va-reactjs-xay-dung-crud-create-read-update-delete-tu-dau/">CRUD 5</a>
 <a href="https://github.com/dinhquochan/laravel-vietnamese-language">Vietnamese Language</a>
+<a href="https://viblo.asia/p/huong-dan-co-ban-phat-trien-web-voi-khung-phat-trien-laravel-phan-1-Qpmled8mZrd">Lavarel Cơ Bản 1</a>
+<a href="https://viblo.asia/p/huong-dan-co-ban-phat-trien-web-voi-khung-phat-trien-laravel-phan-2-bWrZn4dO5xw">Lavarel Cơ Bản 2</a>
 
