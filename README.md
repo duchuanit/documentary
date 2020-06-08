@@ -66,4 +66,8 @@ Danh sách các tài liệu đọc-
 <a href="https://laptrinh.io/series/xay-dung-mot-blog-don-gian-su-dung-laravel">Xây dựng Blog Lavarel cơ bản</a>
 
 
+19. API Example
+<a href="https://codecamp.vn/blog/hien-thi-noi-dung-tu-api-ra-trang-html/">Hiển thị nội dung ra HTML</a>
+
+
 
