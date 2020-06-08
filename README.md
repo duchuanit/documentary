@@ -3,7 +3,8 @@ Danh sách các tài liệu đọc-
 
 
 01. Sử dụng Git cơ bản cho lập trình viên
-<a target="_blank" href="https://anonystick.com/blog-developer/su-dung-git-co-ban-git-cho-moi-lap-trinh-vien-202005154951204?fbclid=IwAR3RZy6mWm3FbC58FoBPPB7xkoSOE47GmGteLg2AfUBLoHzcnbOPrwEUcC4">Link ở đây</a>
+<a target="_blank" href="https://anonystick.com/blog-developer/su-dung-git-co-ban-git-cho-moi-lap-trinh-vien-202005154951204?fbclid=IwAR3RZy6mWm3FbC58FoBPPB7xkoSOE47GmGteLg2AfUBLoHzcnbOPrwEUcC4">Cơ bản |</a> 
+<a href="https://www.thanhlongdev.com/huong-dan-su-dung-git-va-cach-push-project-len-github/"> Nâng cao </a>
 
 02. Download Git-Note
 <a target="_blank" href="https://anonystick.com/blog-developer/download-git-notes-for-professionals-book-2020050281968110?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đấy</a>
