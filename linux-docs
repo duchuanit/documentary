@@ -10,3 +10,12 @@ cd ibus-bamboo
 makepkg -si
 
 Sau đó mở Ibus Preferences-> Input Method   -> Thêm vào bàn phím 
+
+2. Super user root
+sudo passwd root
+New password: 
+Retype new password:
+su root
+
+//chay file
+sudo ./xampp-linux-x64-7.4.7-0-installer.run
