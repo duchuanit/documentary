@@ -24,3 +24,6 @@ sudo ./xampp-linux-x64-7.4.7-0-installer.run
 <a href="https://www.wikihow.com/Install-XAMPP-on-Linux">https://www.wikihow.com/Install-XAMPP-on-Linux</>
 
 Thư mục htdocs : opt/lamp/htdocs . Đặt thư mục cần thêm mới ở đây.
+Cấp quyền administor cho thư mục trong Manjaro (Arch)
+cd /opt/lampp
+sudo chmod 777 -R htdocs
