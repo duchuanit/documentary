@@ -22,3 +22,5 @@ sudo ./xampp-linux-x64-7.4.7-0-installer.run
 
 3. Cài xampp
 <a href="https://www.wikihow.com/Install-XAMPP-on-Linux">https://www.wikihow.com/Install-XAMPP-on-Linux</>
+
+Thư mục htdocs : opt/lamp/htdocs . Đặt thư mục cần thêm mới ở đây.
