@@ -1,0 +1,12 @@
+1. Thêm bộ gõ vào Manjaro
+
+Gõ tiếng việt Arch Linux
+https://tinhte.vn/thread/huong-dan-anh-em-linux-go-tieng-viet.3104698/
+
+Arch Linux có 3 câu lệnh, xong thì restart máy
+
+git clone https://aur.archlinux.org/ibus-bamboo.git 
+cd ibus-bamboo 
+makepkg -si
+
+Sau đó mở Ibus Preferences-> Input Method   -> Thêm vào bàn phím 
