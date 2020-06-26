@@ -34,3 +34,6 @@ sudo /opt/lampp/lampp start
 
 5.//Cài Sublime Text
 https://snapcraft.io/install/sublime-text/manjaro
+
+6./ Xoá thư mục cứng đầu
+sudo chmod 777 /home/icarus/trunk
