@@ -28,5 +28,9 @@ Cấp quyền administor cho thư mục trong Manjaro (Arch)
 cd /opt/lampp
 sudo chmod 777 -R htdocs
 
-4.//Cài Sublime Text
+5./ Chạy start xampp trong linux
+
+sudo /opt/lampp/lampp start
+
+5.//Cài Sublime Text
 https://snapcraft.io/install/sublime-text/manjaro
