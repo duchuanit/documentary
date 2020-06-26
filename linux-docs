@@ -29,7 +29,6 @@ cd /opt/lampp
 sudo chmod 777 -R htdocs
 
 5./ Chạy start xampp trong linux
-
 sudo /opt/lampp/lampp start
 
 5.//Cài Sublime Text
@@ -37,3 +36,8 @@ https://snapcraft.io/install/sublime-text/manjaro
 
 6./ Xoá thư mục cứng đầu
 sudo chmod 777 /home/icarus/trunk
+
+7./ Lavarel trong Manjaro
+Khởi tạo Lavarel 
+Link : https://forum.manjaro.org/t/definitive-guide-to-install-laravel/36846
+Sửa lỗi permissions, chạy câu lệnh sudo chmod 777 -R /storage
