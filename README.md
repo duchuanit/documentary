@@ -58,7 +58,7 @@ Danh sách các tài liệu đọc-
 
 17. Begin to Master React
 <a href="https://github.com/enaqx/awesome-react?fbclid=IwAR2d_cklFqe71fduxo79D3-7LbKglPG3VQ_M77wPZzDCMrLrJiYBRZmphYY">React Begin</a>
-
+<a href="https://viblo.asia/p/tai-sao-ban-nen-su-dung-lazyload-image-trong-ung-dung-reactjs-XL6lA9jglek">Lazy Load React</a>
 
 18. Lavarel
 <a href="https://topdev.vn/blog/laravel-5-5-va-reactjs-xay-dung-crud-create-read-update-delete-tu-dau/">CRUD 5 |</a>
