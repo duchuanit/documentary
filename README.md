@@ -73,5 +73,7 @@ Danh sách các tài liệu đọc-
 19. API Example
 <a href="https://codecamp.vn/blog/hien-thi-noi-dung-tu-api-ra-trang-html/">Hiển thị nội dung ra HTML</a>
 
+20. Wordpress
+<a href="https://vinasupport.com/huong-dan-su-dung-wordpress-rest-api/">WP API</a>
 
 
