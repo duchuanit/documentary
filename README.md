@@ -70,7 +70,8 @@ Phần A: Sách Lập Trình
 <a href="https://viblo.asia/p/huong-dan-co-ban-phat-trien-web-voi-khung-phat-trien-laravel-phan-2-bWrZn4dO5xw">Lavarel Cơ Bản 2 |</a>
 <a href="https://laptrinh.io/series/xay-dung-mot-blog-don-gian-su-dung-laravel">Xây dựng Blog Lavarel cơ bản |</a>
 <a href="https://viblo.asia/p/database-don-vi-hanh-chinh-viet-nam-cho-laravel-naQZR9jQKvx?fbclid=IwAR25Fe44AtFK4Jorzl0LrNuUJVM4nQLKh8IXrM5Fu9x2TTCqkB7e_39sNoc">Dữ liệu đơn vị hành chính quốc qua</a>
-<a href="https://hocwebchuan.com/tutorial/laravel/laravel_blade_template.php">Hướng dẫn Lavarel tiếng việt</a>
+<a href="https://hocwebchuan.com/tutorial/laravel/laravel_blade_template.php">Hướng dẫn Lavarel tiếng việt |</a>
+<a href="https://allaravel.com/series/hoc-laravel-tu-a-den-z-mien-phi">Lavarel 7 ngày</a>
 
 19. API Example
 <a href="https://codecamp.vn/blog/hien-thi-noi-dung-tu-api-ra-trang-html/">Hiển thị nội dung ra HTML</a>
