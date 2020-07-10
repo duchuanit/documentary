@@ -1,6 +1,8 @@
 # Documentary
-Danh sách các tài liệu đọc-
-Phần A: Sách Lập Trình <a href="https://hvitclan.vn/blog/category/thu-vien-5"Thư Viện Sách></a>
+Danh sách các tài liệu đọc<br>
+Phần A: Sách Lập Trình 
+<a href="https://hvitclan.vn/blog/category/thu-vien-5">Thư Viện Sách</a><br/>
+
 
 01. Sử dụng Git cơ bản cho lập trình viên
 <a target="_blank" href="https://anonystick.com/blog-developer/su-dung-git-co-ban-git-cho-moi-lap-trinh-vien-202005154951204?fbclid=IwAR3RZy6mWm3FbC58FoBPPB7xkoSOE47GmGteLg2AfUBLoHzcnbOPrwEUcC4">Cơ bản |</a> 
@@ -75,5 +77,6 @@ Phần A: Sách Lập Trình <a href="https://hvitclan.vn/blog/category/thu-vien
 
 20. Wordpress
 <a href="https://vinasupport.com/huong-dan-su-dung-wordpress-rest-api/">WP API</a>
+<a href="https://hoangan.net/huong-dan-crawler-data-trong-wordpress.html?fbclid=IwAR0DWQa8H6yvRn-0pNfQzAfA0P0d3xQPKDV8YEc9RHu1V_ASIfkCoqdIMhE">WP Crawler</a>
 
 
