@@ -55,7 +55,8 @@ Phần A: Sách Lập Trình
 16. Bài tập React JS
 <a target="_blank" href="https://www.taniarascia.com/crud-app-in-react-with-hooks/">CRUD</a>
 <a href="https://kipalog.com/posts/ReactJS-voi-create-react-app-toan-tap">React JS app</a>
-<a href="https://gist.github.com/paulnguyen-mn/e8a80c07ab9c090c19bce3c89d7cc50f?fbclid=IwAR2xuIaZZ3ebEz30Pl6XPA3jOTBwuDsdM9d-y3IGhGXp6QiKYZ9S7Ipri2w">Lộ trình học React JS</a>
+<a href="https://gist.github.com/paulnguyen-mn/e8a80c07ab9c090c19bce3c89d7cc50f?fbclid=IwAR2xuIaZZ3ebEz30Pl6XPA3jOTBwuDsdM9d-y3IGhGXp6QiKYZ9S7Ipri2w">Lộ trình học React JS |</a>
+<a href="https://reactjsexample.com/a-react-component-library-based-on-tailwind-css/">React component Tailwind CSS</a>
 
 
 17. Begin to Master React
