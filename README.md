@@ -81,6 +81,7 @@ Phần A: Sách Lập Trình
 <a href="https://vinasupport.com/huong-dan-su-dung-wordpress-rest-api/">WP API |</a>
 <a href="https://hoangan.net/huong-dan-crawler-data-trong-wordpress.html?fbclid=IwAR0DWQa8H6yvRn-0pNfQzAfA0P0d3xQPKDV8YEc9RHu1V_ASIfkCoqdIMhE">WP Crawler |</a>
 <a href="https://www.davidangulo.xyz/how-to-create-crud-operations-plugin-in-wordpress/">WP CRUD |</a>
-<a href="https://github.com/eduardoarandah/wordpress-crud-example">WP Example Plugin</a>
+<a href="https://github.com/eduardoarandah/wordpress-crud-example">WP Example Plugin |</a> <br/>
+<a href="https://www.hoangweb.com/category/wordpress">Học liệu Wordpress</a>
 
 
