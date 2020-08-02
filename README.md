@@ -31,9 +31,11 @@ Phần A: Sách Lập Trình
 
 09. PHP
 <a target="_blank" href="https://phpgurukul.com/user-registration-and-login-using-php-oops-concepts/">Link hướng dẫn</a>
+<a href="https://phppot.com/php/php-restful-web-service/">Php Restful Web-service |</a>
 
-10. Hình ảnh Freepik
-<a target="_blank" href="https://www.freepik.com/">Link hướng dẫn </a>
+10. UX UI
+<a target="_blank" href="https://www.freepik.com/">Link hướng dẫn Freepik </a>
+<a target="_blank" href="https://github.com/DesignRevision/shards-dashboard-react">React Darkboard</a>
 
 11. Blog Lavarel Chung Nguyen
 <a target="_blank" href="https://chungnguyen.xyz/category/laravel">Blog Chung Nguyen</a>
@@ -79,9 +81,13 @@ Phần A: Sách Lập Trình
 
 20. Wordpress
 <a href="https://vinasupport.com/huong-dan-su-dung-wordpress-rest-api/">WP API |</a>
+<a href="https://medium.com/@imranhsayed/lazy-loading-images-in-wordpress-f4162114305f">Loading Lazy |</a>
 <a href="https://hoangan.net/huong-dan-crawler-data-trong-wordpress.html?fbclid=IwAR0DWQa8H6yvRn-0pNfQzAfA0P0d3xQPKDV8YEc9RHu1V_ASIfkCoqdIMhE">WP Crawler |</a>
 <a href="https://www.davidangulo.xyz/how-to-create-crud-operations-plugin-in-wordpress/">WP CRUD |</a>
 <a href="https://github.com/eduardoarandah/wordpress-crud-example">WP Example Plugin |</a> <br/>
 <a href="https://www.hoangweb.com/category/wordpress">Học liệu Wordpress</a>
+
+21. QR CODE
+<a href="https://www.the-qrcode-generator.com/">QR CODE online</a>
 
 
