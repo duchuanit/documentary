@@ -92,4 +92,8 @@ Phần A: Sách Lập Trình
 21. QR CODE
 <a href="https://www.the-qrcode-generator.com/">QR CODE online</a>
 
+22. POSTGRES SQL
+<a href="https://www.postgresqltutorial.com/postgresql-sample-database/">POSTGRES Trainning |</a>
+<a href="http://jonathansoma.com/lede/foundations-2019/sql-management/running-postgres/">CMDER POSTGRES |</a>
+
 
