@@ -95,6 +95,7 @@ Phần A: Sách Lập Trình
 
 22. POSTGRES SQL
 <a href="https://www.postgresqltutorial.com/postgresql-sample-database/">POSTGRES Trainning |</a>
+<a href="https://vinasupport.com/hien-thi-va-log-toan-bo-sql-query-trong-postgresql/">File Log |</a>
 <a href="http://jonathansoma.com/lede/foundations-2019/sql-management/running-postgres/">CMDER POSTGRES |</a>
 
 
