@@ -91,7 +91,7 @@ Phần A: Sách Lập Trình
 <a href="https://medium.com/@imranhsayed/lazy-loading-images-in-wordpress-f4162114305f">Loading Lazy |</a> <br/>
 <a href="https://hoangan.net/huong-dan-crawler-data-trong-wordpress.html?fbclid=IwAR0DWQa8H6yvRn-0pNfQzAfA0P0d3xQPKDV8YEc9RHu1V_ASIfkCoqdIMhE">WP Crawler |</a> <br/>
 <a href="https://www.davidangulo.xyz/how-to-create-crud-operations-plugin-in-wordpress/">WP CRUD |</a> <br/>
-<a href="https://github.com/eduardoarandah/wordpress-crud-example">WP Example Plugin |</a> <br/> <br/>
+<a href="https://github.com/eduardoarandah/wordpress-crud-example">WP Example Plugin |</a> <br/>
 <a href="https://www.hoangweb.com/category/wordpress">Học liệu Wordpress</a> <br/>
 
 21. QR CODE
