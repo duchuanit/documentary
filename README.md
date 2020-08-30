@@ -5,36 +5,36 @@ Phần A: Sách Lập Trình
 
 
 01. Sử dụng Git cơ bản cho lập trình viên <br/>
-<a target="_blank" href="https://anonystick.com/blog-developer/su-dung-git-co-ban-git-cho-moi-lap-trinh-vien-202005154951204?fbclid=IwAR3RZy6mWm3FbC58FoBPPB7xkoSOE47GmGteLg2AfUBLoHzcnbOPrwEUcC4">Cơ bản |</a> <br/>
-<a href="https://www.thanhlongdev.com/huong-dan-su-dung-git-va-cach-push-project-len-github/"> Nâng cao </a> <br/>
+<a target="_blank" href="https://anonystick.com/blog-developer/su-dung-git-co-ban-git-cho-moi-lap-trinh-vien-202005154951204?fbclid=IwAR3RZy6mWm3FbC58FoBPPB7xkoSOE47GmGteLg2AfUBLoHzcnbOPrwEUcC4">Cơ bản |</a> 
+<a href="https://www.thanhlongdev.com/huong-dan-su-dung-git-va-cach-push-project-len-github/"> Nâng cao </a>
 
-02. Download Git-Note <br/>
-<a target="_blank" href="https://anonystick.com/blog-developer/download-git-notes-for-professionals-book-2020050281968110?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đấy</a> <br/>
+02. Download Git-Note 
+<a target="_blank" href="https://anonystick.com/blog-developer/download-git-notes-for-professionals-book-2020050281968110?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đấy</a> 
 
-03. Javascript Begin to Master <br/>
-<a target="_blank" href="https://anonystick.com/blog-developer/handbook-bi-kip-hoc-javascript-tu-begin-den-master-2019042290753541?fbclid=IwAR1R5vs42nOrHd32wcMLkzC5-bLCOZ3rgXLy3SlFq8HVQLs5z0yeYeD4V2I">Link ở đây</a> <br/>
+03. Javascript Begin to Master 
+<a target="_blank" href="https://anonystick.com/blog-developer/handbook-bi-kip-hoc-javascript-tu-begin-den-master-2019042290753541?fbclid=IwAR1R5vs42nOrHd32wcMLkzC5-bLCOZ3rgXLy3SlFq8HVQLs5z0yeYeD4V2I">Link ở đây</a> 
 
 04. Handbook Javascipt and React <br/>
 <a target="_blank" href="https://anonystick.com/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q.jsx?fbclid=IwAR2m1OgxsW4MbubRxIPujY_ZtXIp1_wH1SXSx0V6I7jGzFbv5-NiEeQwsSs">Link ở đây</a> <br/>
 
-05. 30 Resources <br/>
+05. 30 Resources 
 <a target="_blank" href="https://anonystick.com/learn-javascript-30-resources-developer-javascript-nen-following-201905225082261.jsx?fbclid=IwAR2m1OgxsW4MbubRxIPujY_ZtXIp1_wH1SXSx0V6I7jGzFbv5-NiEeQwsSs">Link ở đây</a> <br/>
 
-06. Code javascript 15 <br/>
+06. Code javascript 15
 <a target="_blank" href="https://anonystick.com/blog-developer/15-code-javascript-thuong-duoc-su-dung-voi-developer-javascript-2019070375061459.jsx?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đây</a>
 
-07. Dribbble <br/>
+07. Dribbble 
 <a target="_blank" href="https://dribbble.com/shots/10859197-Papaya-Insurance-App?fbclid=IwAR36A96v_7W1Etat4oO-fhd4yqc-srRrRUjGxP-VEiVLNpnzI42y4JSObXw">Dribbble</a>
 
-08. 17 Dự án Javascript cho người mới học <br/>
+08. 17 Dự án Javascript cho người mới học 
 <a target="_blank" href="https://dribbble.com/shots/10859197-Papaya-Insurance-App?fbclid=IwAR36A96v_7W1Etat4oO-fhd4yqc-srRrRUjGxP-VEiVLNpnzI42y4JSObXw">17 Dự án Javascript</a>
 
-09. PHP <br/>
-<a target="_blank" href="https://phpgurukul.com/user-registration-and-login-using-php-oops-concepts/">Link hướng dẫn</a> <br/>
-<a href="https://phppot.com/php/php-restful-web-service/">Php Pot |</a> <br/>
+09. PHP 
+<a target="_blank" href="https://phpgurukul.com/user-registration-and-login-using-php-oops-concepts/">Link hướng dẫn</a>
+<a href="https://phppot.com/php/php-restful-web-service/">Php Pot |</a>
 
 10. UX UI
-<a target="_blank" href="https://www.freepik.com/">Link hướng dẫn Freepik |</a>
+<a target="_blank" href="https://www.freepik.com/">Freepik |</a>
 <a target="_blank" href="https://github.com/DesignRevision/shards-dashboard-react">React Darkboard |</a>
 <a target="_blank" href="https://thangdangblog.com/mot-so-thu-vien-css-huu-ich/">Thư viện css (css.gg) |</a>
 <a target="_blank" href="https://assenti.github.io/react-ui-components/#/">React UI |</a>
