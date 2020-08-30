@@ -56,7 +56,7 @@ Phần A: Sách Lập Trình
 15. Code nhanh với Visual Code
 <a target="_blank" href="https://medium.com/better-programming/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d">Code nhanh</a>
 
-16. Bài tập React JS
+16. Bài tập React JS <br/>
 <a target="_blank" href="https://reactjsexample.com/">Reactjs Example</a> <br/>
 <a target="_blank" href="https://therichpost.com/category/reactjs/">therichpost bài tập</a> <br/>
 <a target="_blank" href="https://www.taniarascia.com/crud-app-in-react-with-hooks/">CRUD</a> <br/>
