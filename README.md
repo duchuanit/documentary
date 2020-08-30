@@ -4,34 +4,34 @@ Phần A: Sách Lập Trình
 <a href="https://hvitclan.vn/blog/category/thu-vien-5">Thư Viện Sách</a><br/>
 
 
-01. Sử dụng Git cơ bản cho lập trình viên
-<a target="_blank" href="https://anonystick.com/blog-developer/su-dung-git-co-ban-git-cho-moi-lap-trinh-vien-202005154951204?fbclid=IwAR3RZy6mWm3FbC58FoBPPB7xkoSOE47GmGteLg2AfUBLoHzcnbOPrwEUcC4">Cơ bản |</a> 
-<a href="https://www.thanhlongdev.com/huong-dan-su-dung-git-va-cach-push-project-len-github/"> Nâng cao </a>
+01. Sử dụng Git cơ bản cho lập trình viên <br/>
+<a target="_blank" href="https://anonystick.com/blog-developer/su-dung-git-co-ban-git-cho-moi-lap-trinh-vien-202005154951204?fbclid=IwAR3RZy6mWm3FbC58FoBPPB7xkoSOE47GmGteLg2AfUBLoHzcnbOPrwEUcC4">Cơ bản |</a> <br/>
+<a href="https://www.thanhlongdev.com/huong-dan-su-dung-git-va-cach-push-project-len-github/"> Nâng cao </a> <br/>
 
-02. Download Git-Note
-<a target="_blank" href="https://anonystick.com/blog-developer/download-git-notes-for-professionals-book-2020050281968110?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đấy</a>
+02. Download Git-Note <br/>
+<a target="_blank" href="https://anonystick.com/blog-developer/download-git-notes-for-professionals-book-2020050281968110?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đấy</a> <br/>
 
-03. Javascript Begin to Master
-<a target="_blank" href="https://anonystick.com/blog-developer/handbook-bi-kip-hoc-javascript-tu-begin-den-master-2019042290753541?fbclid=IwAR1R5vs42nOrHd32wcMLkzC5-bLCOZ3rgXLy3SlFq8HVQLs5z0yeYeD4V2I">Link ở đây</a>
+03. Javascript Begin to Master <br/>
+<a target="_blank" href="https://anonystick.com/blog-developer/handbook-bi-kip-hoc-javascript-tu-begin-den-master-2019042290753541?fbclid=IwAR1R5vs42nOrHd32wcMLkzC5-bLCOZ3rgXLy3SlFq8HVQLs5z0yeYeD4V2I">Link ở đây</a> <br/>
 
-04. Handbook Javascipt and React
-<a target="_blank" href="https://anonystick.com/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q.jsx?fbclid=IwAR2m1OgxsW4MbubRxIPujY_ZtXIp1_wH1SXSx0V6I7jGzFbv5-NiEeQwsSs">Link ở đây</a>
+04. Handbook Javascipt and React <br/>
+<a target="_blank" href="https://anonystick.com/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q.jsx?fbclid=IwAR2m1OgxsW4MbubRxIPujY_ZtXIp1_wH1SXSx0V6I7jGzFbv5-NiEeQwsSs">Link ở đây</a> <br/>
 
-05. 30 Resources
-<a target="_blank" href="https://anonystick.com/learn-javascript-30-resources-developer-javascript-nen-following-201905225082261.jsx?fbclid=IwAR2m1OgxsW4MbubRxIPujY_ZtXIp1_wH1SXSx0V6I7jGzFbv5-NiEeQwsSs">Link ở đây</a>
+05. 30 Resources <br/>
+<a target="_blank" href="https://anonystick.com/learn-javascript-30-resources-developer-javascript-nen-following-201905225082261.jsx?fbclid=IwAR2m1OgxsW4MbubRxIPujY_ZtXIp1_wH1SXSx0V6I7jGzFbv5-NiEeQwsSs">Link ở đây</a> <br/>
 
-06. Code javascript 15
+06. Code javascript 15 <br/>
 <a target="_blank" href="https://anonystick.com/blog-developer/15-code-javascript-thuong-duoc-su-dung-voi-developer-javascript-2019070375061459.jsx?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đây</a>
 
-07. Dribbble
-<a target="_blank" href="https://dribbble.com/shots/10859197-Papaya-Insurance-App?fbclid=IwAR36A96v_7W1Etat4oO-fhd4yqc-srRrRUjGxP-VEiVLNpnzI42y4JSObXw">Link ở đây</a>
+07. Dribbble <br/>
+<a target="_blank" href="https://dribbble.com/shots/10859197-Papaya-Insurance-App?fbclid=IwAR36A96v_7W1Etat4oO-fhd4yqc-srRrRUjGxP-VEiVLNpnzI42y4JSObXw">Dribbble</a>
 
-08. 17 Dự án Javascript cho người mới học
-<a target="_blank" href="https://dribbble.com/shots/10859197-Papaya-Insurance-App?fbclid=IwAR36A96v_7W1Etat4oO-fhd4yqc-srRrRUjGxP-VEiVLNpnzI42y4JSObXw">Link ở đây </a>
+08. 17 Dự án Javascript cho người mới học <br/>
+<a target="_blank" href="https://dribbble.com/shots/10859197-Papaya-Insurance-App?fbclid=IwAR36A96v_7W1Etat4oO-fhd4yqc-srRrRUjGxP-VEiVLNpnzI42y4JSObXw">17 Dự án Javascript</a>
 
-09. PHP
-<a target="_blank" href="https://phpgurukul.com/user-registration-and-login-using-php-oops-concepts/">Link hướng dẫn</a>
-<a href="https://phppot.com/php/php-restful-web-service/">Php Restful Web-service |</a>
+09. PHP <br/>
+<a target="_blank" href="https://phpgurukul.com/user-registration-and-login-using-php-oops-concepts/">Link hướng dẫn</a> <br/>
+<a href="https://phppot.com/php/php-restful-web-service/">Php Pot |</a> <br/>
 
 10. UX UI
 <a target="_blank" href="https://www.freepik.com/">Link hướng dẫn Freepik |</a>
@@ -86,13 +86,13 @@ Phần A: Sách Lập Trình
 19. API Example
 <a href="https://codecamp.vn/blog/hien-thi-noi-dung-tu-api-ra-trang-html/">Hiển thị nội dung ra HTML</a>
 
-20. Wordpress
-<a href="https://vinasupport.com/huong-dan-su-dung-wordpress-rest-api/">WP API |</a>
-<a href="https://medium.com/@imranhsayed/lazy-loading-images-in-wordpress-f4162114305f">Loading Lazy |</a>
-<a href="https://hoangan.net/huong-dan-crawler-data-trong-wordpress.html?fbclid=IwAR0DWQa8H6yvRn-0pNfQzAfA0P0d3xQPKDV8YEc9RHu1V_ASIfkCoqdIMhE">WP Crawler |</a>
-<a href="https://www.davidangulo.xyz/how-to-create-crud-operations-plugin-in-wordpress/">WP CRUD |</a>
-<a href="https://github.com/eduardoarandah/wordpress-crud-example">WP Example Plugin |</a> <br/>
-<a href="https://www.hoangweb.com/category/wordpress">Học liệu Wordpress</a>
+20. Wordpress <br/>
+<a href="https://vinasupport.com/huong-dan-su-dung-wordpress-rest-api/">WP API |</a> <br/>
+<a href="https://medium.com/@imranhsayed/lazy-loading-images-in-wordpress-f4162114305f">Loading Lazy |</a> <br/>
+<a href="https://hoangan.net/huong-dan-crawler-data-trong-wordpress.html?fbclid=IwAR0DWQa8H6yvRn-0pNfQzAfA0P0d3xQPKDV8YEc9RHu1V_ASIfkCoqdIMhE">WP Crawler |</a> <br/>
+<a href="https://www.davidangulo.xyz/how-to-create-crud-operations-plugin-in-wordpress/">WP CRUD |</a> <br/>
+<a href="https://github.com/eduardoarandah/wordpress-crud-example">WP Example Plugin |</a> <br/> <br/>
+<a href="https://www.hoangweb.com/category/wordpress">Học liệu Wordpress</a> <br/>
 
 21. QR CODE
 <a href="https://www.the-qrcode-generator.com/">QR CODE online</a>
