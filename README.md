@@ -74,6 +74,7 @@ Phần A: Sách Lập Trình
 <a href="https://viblo.asia/p/tai-sao-ban-nen-su-dung-lazyload-image-trong-ung-dung-reactjs-XL6lA9jglek">Lazy Load React |</a>
 <a href="https://viblo.asia/p/reactjs-keo-tha-sap-xep-cac-phan-tu-trong-danh-sach-OeVKBgPYZkW">Rect kéo thả |</a>
 <a href="https://vntalking.com/debug-react-trong-vscode.html">Debug React |</a>
+<a target="_blank" href="https://www.w3jar.com/react-js-php-mysqli-crud-application-with-react-context-api/">React Hooks và những thay đổi</a> 
 
 18. Lavarel
 <a href="https://topdev.vn/blog/laravel-5-5-va-reactjs-xay-dung-crud-create-read-update-delete-tu-dau/">CRUD 5 |</a>
