@@ -57,13 +57,14 @@ Phần A: Sách Lập Trình
 <a target="_blank" href="https://medium.com/better-programming/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d">Code nhanh</a>
 
 16. Bài tập React JS
-<a target="_blank" href="https://therichpost.com/category/reactjs/">Tổng hợp bài tập</a>
-<a target="_blank" href="https://www.taniarascia.com/crud-app-in-react-with-hooks/">CRUD</a>
-<a target="_blank" href="https://reactjs.org/docs/faq-ajax.html?fbclid=IwAR3b8RJy0D7uRQdD7a5uf5Hn2gmAcmkkL6j59lb9rtaIU46YFSJksMrhkdo">AJAX and APIs REACT</a>
-<a href="https://kipalog.com/posts/ReactJS-voi-create-react-app-toan-tap">React JS app</a>
-<a href="https://gist.github.com/paulnguyen-mn/e8a80c07ab9c090c19bce3c89d7cc50f?fbclid=IwAR2xuIaZZ3ebEz30Pl6XPA3jOTBwuDsdM9d-y3IGhGXp6QiKYZ9S7Ipri2w">Lộ trình học React JS |</a>
-<a href="https://reactjsexample.com/a-react-component-library-based-on-tailwind-css/">React component Tailwind CSS |</a>
-<a href="https://morioh.com/p/0cc45bd75093?fbclid=IwAR1H1W6hf9iBar5HAmjkmzaL2Dl3yHBdZfdRwQonNrFvSujgOB0Lvzm2_RI">Notification component for ReactJS</a>
+<a target="_blank" href="https://reactjsexample.com/">Reactjs Example</a> <br/>
+<a target="_blank" href="https://therichpost.com/category/reactjs/">therichpost bài tập</a> <br/>
+<a target="_blank" href="https://www.taniarascia.com/crud-app-in-react-with-hooks/">CRUD</a> <br/>
+<a target="_blank" href="https://reactjs.org/docs/faq-ajax.html?fbclid=IwAR3b8RJy0D7uRQdD7a5uf5Hn2gmAcmkkL6j59lb9rtaIU46YFSJksMrhkdo">AJAX and APIs REACT</a> <br/>
+<a href="https://kipalog.com/posts/ReactJS-voi-create-react-app-toan-tap">React JS app</a> <br/>
+<a href="https://gist.github.com/paulnguyen-mn/e8a80c07ab9c090c19bce3c89d7cc50f?fbclid=IwAR2xuIaZZ3ebEz30Pl6XPA3jOTBwuDsdM9d-y3IGhGXp6QiKYZ9S7Ipri2w">Lộ trình học React JS |</a> <br/>
+<a href="https://reactjsexample.com/a-react-component-library-based-on-tailwind-css/">React component Tailwind CSS |</a> <br/>
+<a href="https://morioh.com/p/0cc45bd75093?fbclid=IwAR1H1W6hf9iBar5HAmjkmzaL2Dl3yHBdZfdRwQonNrFvSujgOB0Lvzm2_RI">Notification component for ReactJS</a> <br/>
 
 
 17. Begin to Master React
