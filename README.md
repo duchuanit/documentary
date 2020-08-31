@@ -58,6 +58,7 @@ Phần A: Sách Lập Trình
 
 16. Tổng hợp React JS <br/>
 <a target="_blank" href="https://www.w3jar.com/react-js-php-mysqli-crud-application-with-react-context-api/">React JS PHP MySQLi CRUD Application with React Context API</a> <br/>
+<a target="_blank" href="https://bezkoder.com/react-hooks-crud-axios-api/"> React Hooks CRUD example with Axios and Web API </a> <br/>
 <a target="_blank" href="https://www.w3jar.com/react-js-crud-application/">React JS CRUD Application</a> <br/>
 <a target="_blank" href="https://reactjsexample.com/">Reactjs Example</a> <br/>
 <a target="_blank" href="https://therichpost.com/category/reactjs/">therichpost bài tập</a> <br/>
