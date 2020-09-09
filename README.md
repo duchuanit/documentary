@@ -97,6 +97,7 @@ Phần A: Sách Lập Trình
 <a href="https://www.davidangulo.xyz/how-to-create-crud-operations-plugin-in-wordpress/">WP CRUD |</a> <br/>
 <a href="https://github.com/eduardoarandah/wordpress-crud-example">WP Example Plugin |</a> <br/>
 <a href="https://www.hoangweb.com/category/wordpress">Học liệu Wordpress</a> <br/>
+<a href="https://thachpham.com/wordpress/wp-plugin/lam-website-da-ngon-ngu-voi-polylang.html">Đa ngôn ngữ với Polylang WP</a> <br/>
 
 21. QR CODE
 <a href="https://www.the-qrcode-generator.com/">QR CODE online</a>
