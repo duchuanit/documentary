@@ -47,6 +47,7 @@ Phần A: Sách Lập Trình
 
 13. Flat UI Colors
 <a target="_blank" href="https://flatuicolors.com/">Flat UI</a>
+<a target="_blank" href="https://boxicons.com/usage/">Box Icon</a>
 
 14. Tailblocks / 
 <a target="_blank" href="https://mertjf.github.io/tailblocks/">Tail Blocks</a>
