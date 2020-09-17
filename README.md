@@ -79,7 +79,8 @@ Phần A: Sách Lập Trình
 <a target="_blank" href="https://www.w3jar.com/react-js-php-mysqli-crud-application-with-react-context-api/">React Hooks và những thay đổi</a> <br/>
 <a target="_blank" href="https://morioh.com/p/d197ccd292fa?fbclid=IwAR3EKzSof1P31AcY15ulJ3NLNxdTj0RH6BdXaLqSEVJg0o6rutEirBqlbDU">React - The Complete Guide</a> <br/>
 
-17.
+17. Animation 
+<a href="https://michalsnik.github.io/aos/">aAnimate On Scroll Library|</a> <br/>
 
 
 18. Lavarel
