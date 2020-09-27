@@ -59,7 +59,7 @@ Phần A: Sách Lập Trình
 
 16. Tổng hợp React JS <br/>
 <a target="_blank" href="https://xdevclass.com/cau-truc-react-folder-toi-uu-de-bao-tri-de-nang-cap/?fbclid=IwAR2AwgSiErAJxk08SygATqaO9FEuKnePQNXooV13AWx1DopFiXf-M2Tm0Us">Cấu trúc React Folder</a> <br/>
-<a target="_blank" href="https://www.w3jar.com/react-js-php-mysqli-crud-application-with-react-context-api/">React JS PHP MySQLi CRUD Application with React Context API</a> <br/>
+<a target="_blank" href="https://rahmanfadhil.com/fetch-data-with-react-hooks/">How to Fetch Data with React Hooks</a> <br/>
 <a target="_blank" href="https://morioh.com/p/0fdc475586ee?fbclid=IwAR2AheqjIu-wDlL_x_gDN-cVQvjyVKUbh9R73Dtrfu2mQpNGPsJUxpt5yeE">First full-stack project with Node, React</a> <br/>
 <a target="_blank" href="https://bezkoder.com/react-hooks-crud-axios-api/"> React Hooks CRUD example with Axios and Web API </a> <br/>
 <a target="_blank" href="https://www.w3jar.com/react-js-crud-application/">React JS CRUD Application</a> <br/>
