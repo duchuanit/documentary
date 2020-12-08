@@ -100,6 +100,7 @@ Phần A: Sách Lập Trình
 
 20. Wordpress <br/>
 <a href="https://vinasupport.com/huong-dan-su-dung-wordpress-rest-api/">WP API |</a> <br/>
+<a href="https://crunchify.com/how-to-create-wordpress-custom-post-type-cpt-and-taxonomy-hello-world-tutorial-tips-and-tricks/"> Create WordPress Custom Post Type (CPT) |</a> <br/>
 <a href="https://hocwordpress.vn/huong-dan-custom-post-type-trong-wordpress">Hướng dẫn custom post type trong wordpress từ a đến z |</a> <br/>
 <a href="https://medium.com/@imranhsayed/lazy-loading-images-in-wordpress-f4162114305f">Loading Lazy |</a> <br/>
 <a href="https://hoangan.net/huong-dan-crawler-data-trong-wordpress.html?fbclid=IwAR0DWQa8H6yvRn-0pNfQzAfA0P0d3xQPKDV8YEc9RHu1V_ASIfkCoqdIMhE">WP Crawler |</a> <br/>
