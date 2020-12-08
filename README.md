@@ -9,7 +9,7 @@ Phần A: Sách Lập Trình
 <a href="https://www.thanhlongdev.com/huong-dan-su-dung-git-va-cach-push-project-len-github/"> Nâng cao </a>
 
 02. Download Git-Note 
-<a target="_blank" href="https://anonystick.com/blog-developer/download-git-notes-for-professionals-book-2020050281968110?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đấy</a> 
+<a target="_blank" href="https://anonystick.com/blog-developer/download-git-notes-for-professionals-book-2020050281968110?fbclid=IwAR25ukaVUoBKMo2_tZxyIQpVUs6cw2_3g_MGSKWse0-OaZaz0NPIKpdIB3k">Link ở đấy</a>
 
 03. Javascript Begin to Master 
 <a target="_blank" href="https://anonystick.com/blog-developer/handbook-bi-kip-hoc-javascript-tu-begin-den-master-2019042290753541?fbclid=IwAR1R5vs42nOrHd32wcMLkzC5-bLCOZ3rgXLy3SlFq8HVQLs5z0yeYeD4V2I">Link ở đây</a> 
@@ -100,6 +100,7 @@ Phần A: Sách Lập Trình
 
 20. Wordpress <br/>
 <a href="https://vinasupport.com/huong-dan-su-dung-wordpress-rest-api/">WP API |</a> <br/>
+<a href="https://hocwordpress.vn/huong-dan-custom-post-type-trong-wordpress">Hướng dẫn custom post type trong wordpress từ a đến z |</a> <br/>
 <a href="https://medium.com/@imranhsayed/lazy-loading-images-in-wordpress-f4162114305f">Loading Lazy |</a> <br/>
 <a href="https://hoangan.net/huong-dan-crawler-data-trong-wordpress.html?fbclid=IwAR0DWQa8H6yvRn-0pNfQzAfA0P0d3xQPKDV8YEc9RHu1V_ASIfkCoqdIMhE">WP Crawler |</a> <br/>
 <a href="https://www.davidangulo.xyz/how-to-create-crud-operations-plugin-in-wordpress/">WP CRUD |</a> <br/>
