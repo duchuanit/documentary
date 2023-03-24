@@ -38,6 +38,7 @@ Phần A: Sách Lập Trình
 <a target="_blank" href="https://github.com/DesignRevision/shards-dashboard-react">React Darkboard |</a>
 <a target="_blank" href="https://thangdangblog.com/mot-so-thu-vien-css-huu-ich/">Thư viện css (css.gg) |</a>
 <a target="_blank" href="https://assenti.github.io/react-ui-components/#/">React UI |</a>
+<a target="_blank" href="[https://assenti.github.io/react-ui-components/#/](https://picocss.com/)">Pico CSS|</a>
 
 11. Blog Lavarel Chung Nguyen
 <a target="_blank" href="https://chungnguyen.xyz/category/laravel">Blog Chung Nguyen</a>
