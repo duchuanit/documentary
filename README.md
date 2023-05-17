@@ -120,6 +120,7 @@ Phần A: Sách Lập Trình
 <a href="https://www.postgresqltutorial.com/postgresql-sample-database/">POSTGRES Trainning |</a>
 <a href="https://vinasupport.com/hien-thi-va-log-toan-bo-sql-query-trong-postgresql/">File Log |</a>
 <a href="http://jonathansoma.com/lede/foundations-2019/sql-management/running-postgres/">CMDER POSTGRES |</a>
+<a href="https://geshan.com.np/blog/2021/12/docker-postgres/">POSTGRES DOCKER |</a>
 
 22. VUE JS
 <a href="https://www.webslesson.info/2020/04/build-crud-app-using-vuejs-php-mysql.html">Build CRUD App using Vue.js PHP MySql |</a><br/>
