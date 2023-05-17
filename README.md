@@ -100,6 +100,7 @@ Phần A: Sách Lập Trình
 
 19. API Example
 <a href="https://codecamp.vn/blog/hien-thi-noi-dung-tu-api-ra-trang-html/">Hiển thị nội dung ra HTML</a>
+<a href="https://www.kodingmadesimple.com/2017/05/add-update-delete-read-json-file-php.html">Add, Update, Delete and Read JSON Data/File in PHP</a>
 
 20. Wordpress <br/>
 <a href="https://vinasupport.com/huong-dan-su-dung-wordpress-rest-api/">WP API |</a> <br/>
